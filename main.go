@@ -1,4 +1,4 @@
-package main
+package bettermedia
 
 import (
 	"path/filepath"
