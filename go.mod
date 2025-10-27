@@ -1,4 +1,4 @@
-module bettermedia
+module github.com/zenarvus/goldmark-bettermedia
 
 go 1.24.7
 
